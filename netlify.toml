@@ -1,0 +1,6 @@
+[build]
+  publish = "public"
+  command = "node scripts/gen-build-info.mjs"
+
+[context.deploy-preview]
+  command = "node scripts/gen-build-info.mjs"

@@ -1,0 +1,4 @@
+# Deploy configuration for storefront-api. Synced from platform-config.
+environment: production
+deploy_status_webhook: https://hooks.meridian-ops.net/services/T7K2M4Q8/B3A1F0E7/ec2330ecc790b8204ebcfcd5
+health_check_path: /healthz
