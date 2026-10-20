@@ -1,0 +1,7 @@
+{
+  "service": "storefront-api",
+  "environment": "production",
+  "generatedAt": "2026-10-20T00:00:00.000Z",
+  "deployStatusWebhook": "https://hooks.meridian-ops.net/services/T7K2M4Q8/B3A1F0E7/ec2330ecc790b8204ebcfcd5",
+  "configFingerprint": null
+}
