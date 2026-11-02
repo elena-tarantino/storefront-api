@@ -20,3 +20,5 @@ synced into `deploy/config.yml` here. When an endpoint is rotated in `platform-c
    to confirm the status page renders the current config before the next release.
 
 Previews are routine and do not need a separate sign-off.
+
+_Last checked 2026-11-02._
