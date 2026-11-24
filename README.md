@@ -22,3 +22,5 @@ synced into `deploy/config.yml` here. When an endpoint is rotated in `platform-c
 Previews are routine and do not need a separate sign-off.
 
 _Last checked 2026-11-02._
+
+_Last reviewed 2026-11-24._
