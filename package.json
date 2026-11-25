@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/gen-build-info.mjs"
+    "build": "node scripts/gen-build-info.mjs",
+    "verify": "node scripts/verify.mjs"
   }
 }
